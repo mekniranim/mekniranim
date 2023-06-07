@@ -2,7 +2,7 @@
 <h3 align="center">software developer</h3>
 
 <p align="left"> <img src="https://github.com/mekniranim/mekniranim/assets/135766698/2c4931cd-ea8e-47a4-8876-585d65cc862e" alt="ranim" width="400"
-     height="341"/> </p>
+     height="400"/> </p>
 
 
 
